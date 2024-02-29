@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 .custom-image {
     width: 275px; /* Définir la largeur souhaitée */
     height: 175px; /* Permet de conserver les proportions de l'image */
